@@ -1,0 +1,27 @@
+# Jupyter/Python
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Large geospatial rasters
+*.tif
+*.tiff
+*.img
+*.vrt
+
+# Working documents and archives
+*.docx
+*.zip
+*.rar
+*.7z
+
+# Temp / credentials
+~$*
+*.tmp
+*.bak
+.env
+.venv/
+venv/
+*.pem
+*.key

@@ -1,0 +1,11 @@
+model,variable,VIF
+All years,const,1.0
+All years,precipitation_mm,1.543940591122107
+All years,sea_surface_elevation_anomaly_m,1.0588229396071773
+All years,sea_surface_temperature_C,1.649527817995178
+All years,sea_surface_salinity_psu,1.2335049958348763
+Exclude robust driver outliers,const,1.0000000000000002
+Exclude robust driver outliers,precipitation_mm,1.6641421517388544
+Exclude robust driver outliers,sea_surface_elevation_anomaly_m,1.884560935336717
+Exclude robust driver outliers,sea_surface_temperature_C,1.985328247472791
+Exclude robust driver outliers,sea_surface_salinity_psu,2.281014098776414

@@ -1,0 +1,13 @@
+system:index,feature,importance,year,.geo
+0,BSI,32.09539524777766,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,EVI,22.018555850373016,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,MNDWI,28.29459964279965,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,NBR,56.640077006941176,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,NDMI,46.80858251376747,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,NDVI,18.06136937458109,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,blue,17.102211683351374,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,green,19.125084519925146,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+8,nir,27.887865539375742,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+9,red,17.92295532204318,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+10,swir1,28.1764151330617,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"
+11,swir2,33.823600134479186,2023,"{""type"":""MultiPoint"",""coordinates"":[]}"

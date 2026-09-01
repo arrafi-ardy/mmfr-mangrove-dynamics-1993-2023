@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scipy
+pymannkendall
+scikit-learn
+statsmodels
+rasterio
+pyproj
+openpyxl
+contextily
+xyzservices
+requests
